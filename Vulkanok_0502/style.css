@@ -1,0 +1,26 @@
+h2#ketoceani{
+    color: blue;
+  }
+
+  article.folyamat{
+    background-color: antiquewhite;
+  }
+
+  h1{
+    color: #50a8d6;
+  }
+
+  h2 {
+    margin-top: 15px;
+  }
+
+  figcaption
+  {
+    size: 80%;
+  }
+
+  article.folyamat{
+    padding: 20px;
+    text-align: justify;
+    background-color: rgba(200, 200, 200, 0.3);
+  }
